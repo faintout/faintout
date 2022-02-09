@@ -6,13 +6,6 @@
 
 <br />
 
-## 个人项目
-
-<a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
-
-- **[`-`-&ensp;<img src="https://img.shields.io/github/stars/LuckDraw/lucky-canvas?style=social" height="22" align="top" />]()**
-
-- [**`-`**&ensp;-&ensp;<img src="https://img.shields.io/github/stars/buuing/right-menu?style=social" height="22" align="top" />]()
 
 
 
