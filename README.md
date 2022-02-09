@@ -1,10 +1,4 @@
 
-- 🎖 web前端，泡杯茶，一道leetcode刷一天
-- 🏷 性别男，爱好软软糯糯的小姐姐
-- 🥕 喜欢探索并各种新奇的美食...
-- 😎 <span title="越卷我越强!">拒绝内卷从我做起</span>
-
-<br />
 
 
 <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
