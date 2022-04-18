@@ -1,5 +1,7 @@
-<img src="https://github-readme-stats.vercel.app/api?username=faintout&show_icons=true" alt="logo" height="160"  style="margin: 5px; margin-bottom: 20px;" />    
+<img src="https://github-readme-stats.vercel.app/api?username=faintout&show_icons=true" alt="logo" height="160"  style="margin: 5px; margin-bottom: 20px;" />  
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=faintout&layout=compact&hide_border=true&langs_count=5&theme=graywhite&include_all_commits=true&count_private=true">
 <img src="https://github-profile-trophy.vercel.app/?username=faintout&theme=flat&column=7" alt="logo" height="160"  style="margin: auto; margin-bottom: 20px;" /> 
+
 
 
 
